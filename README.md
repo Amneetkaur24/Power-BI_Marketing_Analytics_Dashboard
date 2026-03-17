@@ -94,7 +94,12 @@ The final solution delivers a scalable marketing analytics dashboard capable of 
 
 ## Repository Structure
 
-data/ – dataset used for analysis
-dashboard/ – Power BI dashboard file (.pbix)
-images/ – dashboard screenshots
-insights.md – key business insights derived from the analysis
+marketing-campaign-performance-analytics
+│
+├── data
+├── dashboard
+│   └── marketing_dashboard.pbix
+├── images
+│   └── dashboard_preview.png
+├── insights.md
+└── README.md
