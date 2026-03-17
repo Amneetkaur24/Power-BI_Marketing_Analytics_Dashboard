@@ -4,10 +4,13 @@
 This project analyzes digital advertising performance across multiple campaign types and audience segments. The dashboard provides a centralized view of marketing KPIs to evaluate campaign effectiveness, audience engagement, and return on advertising spend.
 
 The solution enables stakeholders to monitor campaign performance trends, identify high-performing audience segments, and optimize budget allocation across ad formats and platforms.
+<img width="857" height="492" alt="Screenshot 2026-03-16 162702" src="https://github.com/user-attachments/assets/2537185f-3d99-4c52-a19f-f4f6dfa29591" />
+<img width="858" height="488" alt="Screenshot 2026-03-16 162744" src="https://github.com/user-attachments/assets/f749a518-5ebc-4cce-affd-7c3146cb6daa" />
 
 ## Business Objective
 
-Digital marketing teams require a consolidated view of advertising performance to make informed decisions on budget allocation, audience targeting, and campaign optimization.
+Digital marketing teams require clear visibility into campaign performance to optimize budget allocation and improve conversion rates.
+This dashboard analyzes advertising performance across campaigns, audience segments, and ad formats to identify high-ROI strategies.
 
 This dashboard was developed to:
 
@@ -15,6 +18,12 @@ This dashboard was developed to:
 • Identify high-performing audience segments
 • Monitor engagement and conversion trends over time
 • Support data-driven marketing decisions
+
+## Key Insights
+
+• Video ads generated higher engagement but lower conversion rates.
+• Certain age segments (25-34) produced the highest purchase conversions.
+• Campaigns running during evening hours showed stronger click-through performance.
 
 ## Tools & Technologies
 
